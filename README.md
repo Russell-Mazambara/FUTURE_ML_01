@@ -83,21 +83,22 @@ that helps decision-makers plan inventory, manage cash flow, and identify growth
 
 ## 🗂️ Project Structure
 
+```
 FUTURE_ML_01/
 │
-├── data/                          # Raw dataset
-│   └── Sample - Superstore.csv
+├── data/                          
+│   └── Sample - Superstore.csv    
 │
-├── notebooks/                     # Jupyter notebooks
-│   ├── 01_EDA.ipynb               # Exploratory Data Analysis
-│   └── 02_Model.ipynb             # Model building & forecasting
+├── notebooks/                     
+│   ├── 01_EDA.ipynb               
+│   └── 02_Model.ipynb             
 │
-├── models/                        # Saved trained models
+├── models/                        
 │   ├── sales_forecast_model.pkl
 │   ├── category_encoder.pkl
 │   └── region_encoder.pkl
 │
-├── reports/                       # All visualisation outputs
+├── reports/                       
 │   ├── 01_monthly_sales_trend.png
 │   ├── 02_sales_distribution.png
 │   ├── 03_profitability_analysis.png
@@ -108,8 +109,7 @@ FUTURE_ML_01/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
----
+```
 
 ## 🛠️ Tech Stack
 
