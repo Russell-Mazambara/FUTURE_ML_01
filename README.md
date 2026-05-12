@@ -157,6 +157,40 @@ Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ---
 
+## 📋 Business Recommendations
+
+Based on the forecast and analysis, here are actionable 
+recommendations for business planning:
+
+**1. Inventory Planning**
+Stock up on Technology and Office Supplies products before 
+September — sales begin rising sharply from Q3 into Q4. 
+Avoid heavy stocking in January and February when demand 
+is at its lowest.
+
+**2. Discount Strategy**
+Immediately review any discount campaigns exceeding 40%. 
+Analysis shows these consistently generate negative profit. 
+Cap promotional discounts at 30% to maintain healthy margins.
+
+**3. Regional Focus**
+Invest in growing the South region — it consistently 
+underperforms all other regions despite similar product 
+availability. Targeted marketing campaigns could unlock 
+significant untapped revenue.
+
+**4. Cash Flow Planning**
+Use the 2018 monthly forecast as a baseline budget. 
+Expect quieter months in January–February ($44K forecast) 
+and plan staffing and purchasing accordingly. Prepare for 
+peak demand in Q4 ($56K–$60K forecast range).
+
+**5. Category Strategy**
+While Technology generates the highest profit per order ($78), 
+Office Supplies shows the most consistent and predictable 
+demand. A balanced portfolio approach across both categories 
+reduces revenue volatility.
+
 ## 👤 Author
 
 **Russell Mazambara**  
